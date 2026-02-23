@@ -29,7 +29,7 @@ In Xcode:
 https://github.com/femivita/GenesisKit.git
 ```
 
-3. Choose version rule: **Up to Next Major** from `1.0.0`
+3. Choose version rule: **Up to Next Major** from `1.0.1`
 4. Add products to your app target:
 
 - `GenesisKitCore`
